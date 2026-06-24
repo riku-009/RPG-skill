@@ -1,0 +1,6 @@
+{
+  "name": "熟練度成長RPG",
+  "description": "キャラクターの行動内容によって、剣術・魔術・盾術などの系統熟練度および個別スキル熟練度が上昇する本格育成RPGです。ステータス配分や多彩なクエスト、バトルを通した独自の成長システムを楽しめます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
